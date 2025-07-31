@@ -1,0 +1,6 @@
+[submodule "multi_token_query/contracts/lib/forge-std"]
+	path = multi_token_query/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "multi_token_query/contracts/lib/openzeppelin-contracts"]
+	path = multi_token_query/contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
